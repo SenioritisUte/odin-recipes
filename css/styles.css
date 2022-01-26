@@ -1,0 +1,23 @@
+/* styles.css*/
+
+* {
+    font-family: "Verdana", "Geneva", sans-serif;
+}
+
+.headers {
+    background-color: black;
+    color: red;
+    font-size: 36px;
+    font-weight: 400;
+}
+
+div {
+    background-color: lightgray;
+    color: darkblue;
+}
+
+p {
+    color: darkgray;
+    background-color: black;
+}
+
